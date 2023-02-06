@@ -1,5 +1,5 @@
 # 💫 About Me:
-Muito prazer, me chamo Italo Cavalcanti, tenho 28 anos.<br>Sou casado e pai de uma linda menina chamada Madalena.<br><br>Faço parte do time do ZCoders, o bootcamp de aceleração iOS.
+Muito prazer, me chamo Italo Cavalcanti, tenho 29 anos.<br>Sou casado e pai de uma linda menina chamada Madalena.<br><br>Faço parte do time do ZCoders, o bootcamp de aceleração iOS.
 
 
 ## 🌐 Socials:
